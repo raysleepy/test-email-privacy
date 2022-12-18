@@ -17,3 +17,10 @@ error: failed to push some refs to 'github.com:raysleepy/test-email-privacy.git'
 Good stuff!
 
 Private-mode doesn't reveal any email address. A bit odd..
+
+Changed email settings.
+[x] Keep my email address private
+[ ] Block command line pushes that expose my email
+
+Try to commit and push again from cli
+
