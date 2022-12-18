@@ -24,3 +24,41 @@ Changed email settings.
 
 Try to commit and push again from cli
 
+Summary:
+
+Patch view for commits from web ui:
+
+From d777e32429621bc2435fc26346f4b84e649f0b12 Mon Sep 17 00:00:00 2001
+From: Ray <43712707+raysleepy@users.noreply.github.com>
+Date: Sun, 18 Dec 2022 13:29:34 -0500
+Subject: [PATCH] commit from web ui
+
+Patch view for commits from cli:
+
+From 20d5eda8981536cf48cf7d9723914c59177ff24c Mon Sep 17 00:00:00 2001
+From: ray sleepy <git@raysleepy.com>
+Date: Sun, 18 Dec 2022 18:52:31 +0000
+Subject: [PATCH] changed email privacy settings
+
+git log view:
+
+commit 20d5eda8981536cf48cf7d9723914c59177ff24c (HEAD -> main, origin/main, origin/HEAD)
+Author: ray sleepy <git@raysleepy.com>
+Date:   Sun Dec 18 18:52:31 2022 +0000
+
+    changed email privacy settings
+
+commit 73755fc6d7f460c87e790b0a776082096dd973e5
+Author: Ray <43712707+raysleepy@users.noreply.github.com>
+Date:   Sun Dec 18 13:34:01 2022 -0500
+
+    wip
+
+commit d777e32429621bc2435fc26346f4b84e649f0b12
+Author: Ray <43712707+raysleepy@users.noreply.github.com>
+Date:   Sun Dec 18 13:29:34 2022 -0500
+
+    commit from web ui
+
+Bottom line: good enough!
+
