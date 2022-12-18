@@ -73,3 +73,14 @@ Subject: [PATCH] Update notes.txt
 
 So, the number+<username> email still the same. Swapping primary and backup email address has no effect on the number.
 
+Patch view for cli commit:
+
+From ff0062d3bf578ecd2af6225d15833d31f7abb975 Mon Sep 17 00:00:00 2001
+From: ray sleepy <git@raysleepy.com>
+Date: Sun, 18 Dec 2022 19:08:59 +0000
+Subject: [PATCH] after swapping email addresses, commit from cli
+
+Still the same.
+
+OK, call it a day.
+
