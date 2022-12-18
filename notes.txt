@@ -63,3 +63,13 @@ Date:   Sun Dec 18 13:29:34 2022 -0500
 Bottom line: good enough!
 
 Swapped primary and backup email addresses.
+
+Patch view:
+
+From 1a9b48c31eacee3af03c06cdacaf69baf8a866a2 Mon Sep 17 00:00:00 2001
+From: Ray <43712707+raysleepy@users.noreply.github.com>
+Date: Sun, 18 Dec 2022 14:06:44 -0500
+Subject: [PATCH] Update notes.txt
+
+So, the number+<username> email still the same. Swapping primary and backup email address has no effect on the number.
+
